@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+D:\Raghav-Wrks\Angular Learning\Employee Portal\Java\.metadata\.plugins\org.eclipse.jdt.core
+211805945.index
+3013897810.index
+833113422.index
+1489555468.index
+2782724947.index
+3271193799.index
+1687801379.index
+2703240171.index
+1603744237.index

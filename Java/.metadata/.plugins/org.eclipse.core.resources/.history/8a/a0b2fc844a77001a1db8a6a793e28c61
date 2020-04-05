@@ -1,0 +1,6 @@
+package com.portal.employee.exception;
+
+
+public class ResourceNotFoundException extends Exception{
+
+}
