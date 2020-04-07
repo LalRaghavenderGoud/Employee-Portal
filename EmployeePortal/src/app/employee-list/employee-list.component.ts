@@ -24,7 +24,7 @@ export class EmployeeListComponent implements OnInit {
   }
 
  deleteEmployee(id: number){
-   console.log("Raghav"+ id);
+   console.log("Raghav::"+ id);
   this.employeeService.deleteEmployee(id)
       .subscribe(
         data => {
@@ -34,7 +34,8 @@ export class EmployeeListComponent implements OnInit {
         error => console.log(error));
  }
  employeeDetails(id: number){
-   this.router.navigate(['details',id]);
+   //this.router.navigate(['details',id]);
+   this.router.navigate(['details']);
  }
 
 }

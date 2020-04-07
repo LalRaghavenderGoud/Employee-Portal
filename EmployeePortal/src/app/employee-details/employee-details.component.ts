@@ -24,9 +24,9 @@ export class EmployeeDetailsComponent implements OnInit {
           this.employee = data;
         },error => console.log(error));
   }
-  
+
   list(){
-    this.router.navigate(['employees']);
+    this.router.navigate(['/employees']);
   }
   
   // updateActive(value:any){
